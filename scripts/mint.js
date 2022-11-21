@@ -9,7 +9,7 @@ const hre = require("hardhat");
 async function main() {
 
   const TiketEvent = await hre.ethers.getContractFactory("tiketEvent");
-  const tiketEvent = await TiketEvent.attach("0x228A06e0e7b11DCCB9960320165eF6AFfeFd2D25");
+  const tiketEvent = await TiketEvent.attach("YOUR-SMART-CONTRACT-ADDRESS");
 
   await tiketEvent.mintNFT("0x50DbF9a279fB93618042ca419a7A7946432CB950", "https://gateway.pinata.cloud/ipfs/QmbZrkgjeiMh8WJ2xM9pk8q8QQtrmuiPsgjehvKDbZmT3V");
 
