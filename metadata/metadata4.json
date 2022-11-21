@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Beach",
+        "value": "1"
+      },
+      {
+        "trait_type": "Stage",
+        "value": "4"
+      }
+    ],
+    "description": "Dirty beach with a lot of trash but no one.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmfREbHrHWHezMoAUCdzQCeJ1rLNWY9WYKapSZqfwxAJrD",
+    "name": "Objective: Clean Beach"
+  }

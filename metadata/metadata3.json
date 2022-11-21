@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Beach",
+        "value": "1"
+      },
+      {
+        "trait_type": "Stage",
+        "value": "3"
+      }
+    ],
+    "description": "Afternoon at the beach, no cleaning from the humans...",
+    "image": "https://gateway.pinata.cloud/ipfs/QmeedcUnEbC5t6W7ezHceFMBGYz5DgKPnQs8SGh4dkrX7m",
+    "name": "Objective: Clean Beach"
+  }

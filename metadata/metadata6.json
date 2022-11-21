@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Beach",
+        "value": "1"
+      },
+      {
+        "trait_type": "Stage",
+        "value": "6"
+      }
+    ],
+    "description": "Natural catastrophe tarnishes the beach",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdhZPkqLGEEYuTGFYaDqw3piHNDBZ2Dx4Arhvovgu7cuc",
+    "name": "Objective: Clean Beach"
+  }
